@@ -22,7 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%" align="center">
+<table align="center"><tr><td valign="top" width="33%" align="center">
 
 
 
@@ -35,7 +35,7 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" align="center">
 
 
 
@@ -47,7 +47,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" align="center">
 
 
 
@@ -90,5 +90,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

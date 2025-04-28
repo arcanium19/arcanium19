@@ -6,7 +6,7 @@
 # <div align="center">Hi! I'm Jonathan - Full Stack Web Developer 🚀</div>  
   
 
-- ℹ️ I am 26 years old and I live in Argentina.  
+- ℹ️ I am 27 years old and I live in Argentina.  
   
 
 - 👥 I have experience with SCRUM working method  
@@ -15,7 +15,7 @@
 - 👨‍🏫I led work groups as a teaching assistant  
   
 
-- ⚡ Most of the time I perform on Backend and CSS on Frontend  
+- ⚡ Most of the time I perform on Backend than Frontend  
   
 
 <br/>  
